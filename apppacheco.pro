@@ -1,6 +1,6 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2016-01-15T19:29:16
+# Project created by QtCreator 2016-01-16T14:12:26
 #
 #-------------------------------------------------
 
@@ -13,8 +13,8 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        apppacheco.cpp
+        mainwindow.cpp
 
-HEADERS  += apppacheco.h
+HEADERS  += mainwindow.h
 
-FORMS    += apppacheco.ui
+FORMS    += mainwindow.ui
